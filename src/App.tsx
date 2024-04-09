@@ -1,16 +1,12 @@
 import './App.css'
 import Header from './components/Header/Header'
-import Button from './components/Button/Button'
+import Home from './routes/home/Home'
 
-function App() {
+export default function App() {
   return (
     <>
       <Header></Header>
-      <main>
-        <Button>Button testing</Button>
-      </main>
+      <Home />
     </>
   )
 }
-
-export default App

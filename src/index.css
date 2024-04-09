@@ -1,6 +1,8 @@
 :root {
   --main-bg: #222;
   --main-text: #eee;
+  --main-lighten: #fff;
+  --main-darken: #000;
   --button-bg: #333;
   --button-text: #eee;
 
