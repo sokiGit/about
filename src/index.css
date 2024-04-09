@@ -1,8 +1,8 @@
 :root {
-  --main-bg: #fff;
-  --main-text: #111;
-  --button-bg: #f9f9f9;
-  --button-text: #223;
+  --main-bg: #222;
+  --main-text: #eee;
+  --button-bg: #333;
+  --button-text: #eee;
 
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -62,7 +62,7 @@ button:focus-visible {
   :root {
     --main-bg: #fff;
     --main-text: #111;
-    --button-bg: #f9f9f9;
+    --button-bg: #eee;
     --button-text: #223;
   }
 }
