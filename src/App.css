@@ -1,4 +1,6 @@
-header {
-    background: color-mix(in srgb, var(--main-bg) 50%, var(--main-darken) 15%);
-    border-bottom: 1px solid color-mix(in srgb, var(--main-lighten) 15%, transparent 85%);
+body {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    min-height: 100vh;
 }

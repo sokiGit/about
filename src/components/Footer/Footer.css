@@ -1,0 +1,9 @@
+footer {
+    width: 100%;
+    min-height: 30vh;
+    background-color: color-mix(in srgb, var(--main-bg) 75%, var(--main-darken) 25%);
+    border-top: 1px solid color-mix(in srgb, var(--main-lighten) 15%, transparent 85%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
