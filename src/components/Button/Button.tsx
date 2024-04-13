@@ -1,4 +1,4 @@
-export default function Button(data) {
+export default function Button(data : {children : any}) {
     return (
         <button>{data.children}</button>
     );
